@@ -5,7 +5,7 @@ This repository contains implementations of assignments from the "System Archite
 ## Assignments
 1. Thread scheduling
    - control thread execution using TCB (thread control blocks)
-   - be able to switch between different execution strategies (cyclic, multilevel feedback, prioritization of I/O-threads)
+   - be able to switch between different scheduling strategies (cyclic, multilevel feedback, prioritization of I/O-threads, round-robin)
    - visualize each thread's work progress graphically
   
 2. Producer/consumer problem
