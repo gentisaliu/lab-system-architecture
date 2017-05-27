@@ -4,20 +4,20 @@ This repository contains implementations of assignments from the "System Archite
 
 ## Assignments
 1. Thread scheduling
-  - control thread execution using TCB (thread control blocks)
-  - be able to switch between different execution strategies (cyclic, multilevel feedback, prioritization of I/O-threads)
-  - visualize each thread's work progress graphically
+   - control thread execution using TCB (thread control blocks)
+   - be able to switch between different execution strategies (cyclic, multilevel feedback, prioritization of I/O-threads)
+   - visualize each thread's work progress graphically
   
 2. Producer/consumer problem
-  - 1 producer, 1 consumer, 1 buffer
-  - 1 producer, 1 consumer, n buffers
-  - several producers and consumers, n buffers
-  - visualize each thread's activity graphically
+   - 1 producer, 1 consumer, 1 buffer
+   - 1 producer, 1 consumer, n buffers
+   - several producers and consumers, n buffers
+   - visualize each thread's activity graphically
   
 3. "Battleship" Game
-  - multiplayer-based over LAN
-  - chat system
-  - visual and audio effects
+   - multiplayer-based over LAN
+   - chat system
+   - visual and audio effects
 
 ## Contributors
 - Raphael Kimmig
