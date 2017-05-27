@@ -14,7 +14,7 @@ This repository contains implementations of assignments from the "System Archite
    - several producers and consumers, n buffers
    - visualize each thread's activity graphically
   
-3. "Battleship" Game
+3. "Battleship" game
    - multiplayer-based over LAN
    - chat system
    - visual and audio effects
